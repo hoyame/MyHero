@@ -40,7 +40,7 @@
     "@types/react-native-webrtc": "^1.75.2",
     "@types/react-redux": "^7.1.9",
     "@types/socket.io-client": "^1.4.35",
-    "axios": "^0.21.0",
+    "axios": "^0.28.0",
     "http": "^0.0.1-security",
     "i18n-js": "^3.8.0",
     "popup-ui": "^1.2.2",
